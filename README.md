@@ -18,13 +18,17 @@ The system operates via interaction on a canvas, enabling users to 'draw' geomet
 All functions were written in Python using libraries for <b>interface</b>, <b>arithmetic operations</b>, and <b>Os system functions</b>.
 
 ## How to use
+<b>The 'Img' folder should be in the same directory as the code.</b>
 
+### Interface
+<img src= "https://github.com/Dinista/2D-Geometric-Visualizer/blob/main/Img/Capturar.JPG?raw=true" alt= "interface" width="600px"></img>
 
+There is a <b>help menu</b> in the top left corner; everything is quite intuitive. In the upper right corner, there is a <b>box displaying the created shapes</b>, is possible to select the shapes either through this box or by clicking directly on them in the canvas.
 
 ### Dependencies
 
 <ul>
-    <li><a href= "https://www.python.org/">Python 3.7 or higher.</a>
+    <li><a href= "https://www.python.org/">Python</a> 3.7 or higher.
       <ul>
         <li>tkinter;</li>
         <li>math;</li>
